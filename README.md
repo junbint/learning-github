@@ -1,2 +1,3 @@
-# learning-github
-Test account for learning GitHub
+# Learning GitHub
+
+This is a test account for learning GitHub. 
